@@ -51,4 +51,4 @@ def main():
         conn.send(b'150 Ok to send data.\n')
 
 if __name__ == '__main__':
-    main(
+    main()
